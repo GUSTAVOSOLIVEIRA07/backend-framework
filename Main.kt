@@ -18,4 +18,3 @@ fun Main() {
     val Cards_images: List<Cards_images> = listOf()
     val Cards_prices: List<Cards_prices> = listOf()
 }
-
